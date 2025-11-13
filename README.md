@@ -1,4 +1,4 @@
-# First time commit file to github by using git.
+# First time push file to github by using git.
 ## Steps that I do:
 
 0. open terminal in vs code
