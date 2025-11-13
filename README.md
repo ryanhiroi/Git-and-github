@@ -1,5 +1,5 @@
-##First time commit file to github by using git
-###Step that I do:
+# First time commit file to github by using git.
+## Step that I do:
 1. git init
 2. git remote add origin <link>
 3. git add .
