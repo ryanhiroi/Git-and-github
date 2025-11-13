@@ -8,5 +8,5 @@
 4. git commit -m "First commit"
 5. git push -u origin main
 
-### Kinda long so I find a better way at my repository "git and github 2".
+### Kinda long so I find a better way at my repository "Git and github 2".
 
