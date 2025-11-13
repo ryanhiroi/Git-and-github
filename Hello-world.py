@@ -1,2 +1,5 @@
 print("Hello world") 
 print("This is a simple Python program that prints 'Hello world' to the console.")
+print("Feel free to modify and expand this code!")
+print("Have a great day coding!")
+print("Goodbye world")
